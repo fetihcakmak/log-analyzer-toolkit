@@ -1,0 +1,3 @@
+# Standart kütüphane dışında bağımlılık yok
+# Aşağıdaki paketler opsiyoneldir (hız için)
+# geoip2>=4.7.0  # ssh-brute-force-detector geo_lookup için gerekli
