@@ -218,4 +218,10 @@ log-analyzer-toolkit/
 
 ---
 
+## 📄 Lisans
+
+Bu depo şu an bir lisans dosyası içermiyor. Kullanım koşulları için proje sahibiyle iletişime geçin.
+
+---
+
 *Fetih Çakmak — Cybersecurity Portfolio*
